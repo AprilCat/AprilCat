@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AprilCat (William Zou).
 - 👀 I’m interested in video technology stack and Deep Learning
-- 🌱 I’m currently learning android NDK (Native Development Kit) and TensorRT
-- 💞️ I’m looking to collaborate on app about pet. I'm investigate...
+- 🌱 I’m currently learning Linux BSP and TensorRT
 - 📫 604241857@qq.com is often used. or voidsoul.zou@gmail.com or WeChat: voidsoul
 
 <!---
